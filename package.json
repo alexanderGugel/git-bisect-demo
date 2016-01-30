@@ -1,6 +1,6 @@
 {
   "name": "git-bisect-demo",
-  "version": "1.0.118",
+  "version": "1.0.119",
   "description": "Better than 41.",
   "main": "index.js",
   "scripts": {
