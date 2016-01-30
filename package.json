@@ -1,0 +1,11 @@
+{
+  "name": "git-bisect-demo",
+  "version": "1.0.1",
+  "description": "Better than 41.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
